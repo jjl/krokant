@@ -1,0 +1,12 @@
+package crisp
+
+depends = base, contrib
+modules
+  = Crisp
+  , Crisp.Cell
+  , Crisp.Data
+  , Crisp.Data.Env
+  , Crisp.Data.Types
+  , Crisp.App
+
+
